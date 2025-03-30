@@ -139,17 +139,61 @@ A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project in
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+### Problems that the software aims to solve:
+1. **Inefficient Task Management** – Many teams struggle with disorganized workflows, causing delays and miscommunication.
+2. **Cost Overruns** – Poor financial tracking can lead to unexpected expenses, affecting project viability.
+3. **Scope Creep** – Uncontrolled changes during development lead to extended timelines and resource strain.
+4. **Lack of Real-Time Collaboration** – Teams need effective communication tools to stay aligned on progress.
+5. **Inadequate Risk Management** – Identifying potential risks too late can cause severe setbacks.
+
+### Why Are These Problems Significant?
+- Addressing these issues helps teams stay on track, within budget, and meet deadlines efficiently.
+- Ensures higher productivity and better project success rates.
+- Improves collaboration, transparency, and accountability across teams.
+
+---
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+- Clearly defining the problem helps in developing a more effective software solution by:
 
+1. **Focusing on User Needs** – Ensures the software directly addresses the pain points of the target audience.
+2. **Guiding Development Efforts** – Helps developers and stakeholders align on objectives and priorities.
+3. **Preventing Scope Creep** – Avoids unnecessary features that don't solve the core issue.
+4. **Improving Decision-Making** – Provides a clear foundation for choosing the right technologies and architecture.
+5. **Enhancing Communication** – Makes it easier to convey the project’s purpose to team members, investors, and users.
+
+---
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
+**"[Software Name] is a user-friendly and efficient tool designed to [solve the core problem]. It simplifies [specific task] by providing an intuitive solution that enhances [main benefit]. Whether you’re a [target audience], our software helps you [value proposition], making your work easier, faster, and more effective."**
+
+---
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
+- **Feature 1** – [Brief description of what it does and its benefit].  
+- **Feature 2** – [How it improves efficiency, usability, or security].  
+- **Feature 3** – [Unique selling point compared to competitors].  
+- **Feature 4** – [Scalability, customization, or any AI-driven capabilities].  
+
+---
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
+According to industry research:  
+- The **current market size** for [software category] is estimated at **$X billion**.  
+- The market is expected to grow at a **CAGR of Y%** over the next few years.  
+- The **key drivers** of growth include [trends such as automation, remote work, or digital transformation].  
+- **Competitor analysis** shows a demand for [specific feature] that our software uniquely addresses.
+
+---
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+Understanding market trends helps in:
+- **Identifying Opportunities** – Capitalizing on emerging needs and gaps in the market.  
+- **Competitive Differentiation** – Positioning the software based on unique value propositions.  
+- **Future-Proofing** – Adapting to technological advancements and user preferences.  
+- **Targeted Marketing** – Reaching the right audience with compelling messaging.  
+- **Investment & Growth Strategy** – Making informed decisions on scaling, partnerships, and monetization models.  
